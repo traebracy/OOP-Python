@@ -1,4 +1,4 @@
-# Classes and Python
+# Classes w/ Python
 
 This project focuses on working with classes and object-oriented programming in Python.
 
